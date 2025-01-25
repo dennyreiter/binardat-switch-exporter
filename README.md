@@ -28,3 +28,7 @@ curl "http://192.168.2.1/port.cgi?page=stats" --cookie /tmp/cookies.txt
 
 ## Lack of Knowledge
 Without the help of Google, I'd probably no nothing about the Go programming language, but I've been hacking up the original program by pvelati to try and make it work. So far, I can't seem to get the cookie to be accepted when requesting the stats.
+
+## Acknowledgements
+All credit should go to [Paolo Velati](https://github.com/pvelati)
+
